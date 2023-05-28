@@ -1,7 +1,6 @@
 // To run the code, first run consumer in the background (./consumer &). Then run the producer. 
 //To stop the program, type 'end' and press enter.
 
-
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
